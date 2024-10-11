@@ -1,3 +1,11 @@
-a {
-  border-bottom: none !important;
+.slidev-layout {
+  a {
+    border-bottom: none !important;
+  }
+
+  p,
+  a,
+  li {
+    @apply text-2xl leading-relaxed;
+  }
 }

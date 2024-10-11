@@ -32,7 +32,7 @@ Classi 株式会社
 - エンジニア 7 年目
 - 1 児の父
 
-<div class="flex flex-col mt-4">
+<div class="flex flex-col gap-2 mt-4">
 <span>
 <a href="https://github.com/koki-develop" target="_blank">
   <carbon:logo-github /> koki-develop
@@ -98,13 +98,11 @@ layout: center
 キャリアを 3 つの期間にわけると...
 </p>
 
-<div class="flex flex-col items-center">
-<ol class="text-4xl">
-  <li v-click>体を壊すまで</li>
-  <li v-click>心が折れるまで</li>
-  <li v-click>エンジョイ期</li>
+<ol class="flex flex-col gap-4">
+  <li v-click class="!text-4xl">体を壊すまで</li>
+  <li v-click class="!text-4xl">心が折れるまで</li>
+  <li v-click class="!text-4xl">エンジョイ期</li>
 </ol>
-</div>
 
 ---
 layout: section

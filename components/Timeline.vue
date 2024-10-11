@@ -32,21 +32,21 @@ const props = defineProps<{
       />
       <time
         :class="
-          clsx('mb-1 text-sm text-gray-600 dark:text-gray-300', {
+          clsx('mb-1 text-base text-gray-500 dark:text-gray-300', {
             'font-semibold': index === props.items.length - 1,
           })
         "
         >{{ item.date }}</time
       >
-      <h2
+      <div
         :class="
-          clsx('!text-2xl text-gray-900 dark:text-white', {
+          clsx('text-gray-900 dark:text-white', {
             'font-semibold': index === props.items.length - 1,
           })
         "
       >
         {{ item.description }}
-      </h2>
+      </div>
     </li>
   </ol>
 </template>
