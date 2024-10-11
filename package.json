@@ -2,6 +2,9 @@
   "name": "okayama-open-seminar-2024-slide",
   "type": "module",
   "private": true,
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
