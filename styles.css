@@ -3,9 +3,21 @@
     border-bottom: none !important;
   }
 
+  &.cover h1 {
+    @apply !text-4xl !leading-snug;
+  }
+
+  h1 {
+    @apply leading-snug;
+  }
+
   p,
   a,
   li {
-    @apply text-2xl leading-relaxed;
+    @apply text-2xl;
+  }
+
+  li {
+    @apply leading-normal;
   }
 }
