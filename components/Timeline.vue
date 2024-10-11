@@ -17,7 +17,7 @@ const props = defineProps<{
     <li
       v-for="(item, index) in props.items"
       :key="index"
-      class="mb-1 list-none"
+      class="mb-1 list-none !leading-snug"
     >
       <div
         :class="
