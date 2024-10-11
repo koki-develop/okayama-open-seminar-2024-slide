@@ -152,7 +152,10 @@ layout: section
 
 ---
 
-TODO
+# 今後のキャリアについて
+
+- なにも考えてない
+- なるようになる
 
 ---
 layout: section
