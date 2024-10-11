@@ -1,13 +1,7 @@
 ---
-theme: seriph
-background: https://cover.sli.dev
-title: Welcome to Slidev
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
-class: text-center
+theme: default
+favicon: https://koki.me/favicon.ico
+title: 成長するための努力をやめたエンジニアのこれまでとこれから
 drawings:
   persist: false
 transition: slide-left
