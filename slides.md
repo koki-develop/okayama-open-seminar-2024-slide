@@ -46,3 +46,128 @@ Classi 株式会社
 </div>
 
 <img src="/profile.png" class="w-1/2 absolute top-1/2 left-9/20 transform -translate-y-1/2" />
+
+---
+
+# 話すこと
+
+TODO
+
+---
+
+# 話さないこと
+
+TODO
+
+---
+
+# 伝えたいこと
+
+TODO
+
+---
+
+# アジェンダ
+
+TODO
+
+---
+layout: section
+---
+
+# キャリアを振り返る
+
+---
+
+# 略歴
+
+<Timeline :items="[
+{ date: '2018.03', description: '音楽系の専門学校を卒業' },
+{ date: '2018.04 ~', description: '貴金属の買取業者' },
+{ date: '2018.06 ~', description: 'SES 企業' },
+{ date: '2019.07 ~', description: 'Web 系自社開発企業' },
+{ date: '2022.06 ~', description: 'IT コンサル企業' },
+{ date: '2023.09 ~', description: 'Classi 株式会社' },
+]" />
+
+---
+layout: center
+---
+
+<p class="absolute top-1/5 left-1/2 transform -translate-x-1/2">
+キャリアを 3 つの期間にわけると...
+</p>
+
+<div class="flex flex-col items-center">
+<ol class="text-4xl">
+  <li v-click>体を壊すまで</li>
+  <li v-click>心が折れるまで</li>
+  <li v-click>エンジョイ期</li>
+</ol>
+</div>
+
+---
+layout: section
+---
+
+# 1. 体を壊すまで
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# 2. 心が折れるまで
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# 3. エンジョイ期
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# キャリアを振り返ってみて
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# 今後のキャリアについて
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# まとめ
+
+---
+
+TODO
+
+---
+layout: section
+---
+
+# ご清聴ありがとうございました
