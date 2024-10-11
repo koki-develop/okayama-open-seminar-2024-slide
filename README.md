@@ -1,11 +1,3 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+「[オープンセミナー2024@岡山](https://oso.connpass.com/event/328613/)」の発表資料。
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- [成長するための努力をやめたエンジニアのこれまでとこれから](https://koki-develop.github.io/okayama-open-seminar-2024-slide)
