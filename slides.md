@@ -4,9 +4,9 @@ favicon: https://koki.me/favicon.ico
 title: 成長するための努力をやめたエンジニアのこれまでとこれから
 drawings:
   persist: false
-transition: slide-left
 mdc: true
 overviewSnapshots: true
+hideInToc: true
 ---
 
 # 成長するための努力をやめたエンジニアの<br/>これまでとこれから
@@ -16,6 +16,7 @@ overviewSnapshots: true
 
 ---
 layout: intro
+hideInToc: true
 ---
 
 # 佐藤光輝
@@ -45,11 +46,15 @@ Classi 株式会社
 <img src="/profile.png" class="w-1/2 absolute top-1/2 left-9/20 transform -translate-y-1/2" />
 
 ---
+hideInToc: true
+---
 
 # 話すこと
 
 TODO: 書く
 
+---
+hideInToc: true
 ---
 
 # 話さないこと
@@ -57,16 +62,20 @@ TODO: 書く
 TODO: 書く
 
 ---
+hideInToc: true
+---
 
 # 伝えたいこと
 
 TODO: 書く
 
 ---
+hideInToc: true
+---
 
 # アジェンダ
 
-TODO: 書く
+<Toc />
 
 ---
 layout: section
@@ -75,6 +84,11 @@ layout: section
 # キャリアを振り返る
 
 ---
+level: 2
+hideInToc: true
+---
+
+<Header :page="$page" />
 
 # 略歴
 
@@ -89,7 +103,11 @@ layout: section
 
 ---
 layout: center
+level: 2
+hideInToc: true
 ---
+
+<Header :page="$page" />
 
 <p class="absolute top-1/5 left-1/2 transform -translate-x-1/2">
 僕のキャリアを 3 つの期間にわけると...
@@ -103,11 +121,19 @@ layout: center
 
 ---
 layout: section
+level: 2
+hideInToc: true
 ---
+
+<Header :page="$page" />
 
 # 1. 体を壊すまで
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # エンジニアになったきっかけ
 
@@ -120,6 +146,10 @@ TODO: まとめる
 - 入社
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # エンジニアとしての勉強の日々
 
@@ -134,6 +164,10 @@ TODO: まとめる
 すると...
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 難病の発覚
 
@@ -149,6 +183,10 @@ TODO: まとめる
   - 現在も定期的に通院中
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 体を壊したあと
 
@@ -164,23 +202,39 @@ TODO: まとめる
 
 ---
 layout: section
+level: 2
+hideInToc: true
 ---
+
+<Header :page="$page" />
 
 # 2. 心が折れるまで
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # ( より一層 ) エンジニアとしての勉強の日々
 
 TODO: 書く
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 焦りと不安
 
 TODO: 書く
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 心が折れたあと
 
@@ -188,23 +242,39 @@ TODO: 書く
 
 ---
 layout: section
+level: 2
+hideInToc: true
 ---
+
+<Header :page="$page" />
 
 # 3. エンジョイ期
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 新たな行動基準：楽しさ至上主義
 
 TODO: 書く
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # 仕事に対する考え方
 
 TODO: 書く
 
 ---
+level: 3
+---
+
+<Header :page="$page" />
 
 # やらないこと
 
@@ -219,11 +289,17 @@ TODO: まとめる
 
 ---
 layout: section
+level: 1
 ---
 
 # キャリアを振り返ってみて
 
 ---
+level: 2
+hideInToc: true
+---
+
+<Header :page="$page" />
 
 # 「楽しさ至上主義」の前提条件
 
@@ -239,6 +315,11 @@ layout: section
 </v-click>
 
 ---
+level: 2
+hideInToc: true
+---
+
+<Header :page="$page" />
 
 # 自分にとっての「楽しいこと」とは？
 
@@ -252,6 +333,11 @@ TODO: まとめる
   - 今もそう
 
 ---
+level: 2
+hideInToc: true
+---
+
+<Header :page="$page" />
 
 # 成長するための努力をやめること<br/>≠ 成長をやめること
 
@@ -264,6 +350,11 @@ TODO: まとめる
   - 仮に全く成長していないとしても全く問題ない
 
 ---
+level: 2
+hideInToc: true
+---
+
+<Header :page="$page" />
 
 # 健康とキャリア
 
@@ -294,6 +385,8 @@ layout: section
 # 今後のキャリアについて
 
 ---
+hideInToc: true
+---
 
 # 今後のキャリアについて
 
@@ -307,6 +400,8 @@ layout: section
 # まとめ
 
 ---
+hideInToc: true
+---
 
 # まとめ
 
@@ -314,6 +409,7 @@ TODO: 書く
 
 ---
 layout: section
+hideInToc: true
 ---
 
 # ご清聴ありがとうございました
