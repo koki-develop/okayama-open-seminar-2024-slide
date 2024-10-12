@@ -153,14 +153,29 @@ level: 3
 
 # エンジニアとしての勉強の日々
 
-- 夜 12 時まで勉強、朝 3 時に起きて勉強
+- 仕事以外の時間はほぼ勉強
   - とにかく楽しかった
   - どんどん新しいスキルが身についていく感覚
 - これを **1 年以上続けた**
   - 多少疲れても気にしなかった
   - 若かった (当時 21 歳)
 
-その結果！！ → {v-click .!text-3xl.font-bold.text-center}
+その結果！！ {v-click .!text-3xl.font-bold.!mt-8}
+
+<div class="h-[380px] w-[380px] absolute top-3/5 right-4 transform -translate-y-1/2">
+
+<PieChart :data="[
+  { label: '睡眠', value: 3, color: '#999999' },
+  { label: '勉強', value: 4, color: '#36A2EB' },
+  { label: '朝の準備', value: 0.5, color: '#FFA500' },
+  { label: '通勤', value: 1.5, color: '#4BC0C0' },
+  { label: '仕事', value: 9, color: '#9966FF' },
+  { label: '帰宅', value: 1.5, color: '#4BC0C0' },
+  { label: 'お風呂・ご飯など', value: 1, color: '#FFA500' },
+  { label: '勉強', value: 3.5, color: '#36A2EB' },
+]" />
+
+</div>
 
 ---
 layout: statement
