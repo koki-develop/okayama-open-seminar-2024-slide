@@ -22,6 +22,7 @@
     "vue-chartjs": "^5.3.1"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "vite-svg-loader": "^5.1.0"
   }
 }
