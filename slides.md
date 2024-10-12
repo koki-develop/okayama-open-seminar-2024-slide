@@ -170,7 +170,11 @@ level: 3
 
 その結果！！ {v-click .!text-3xl.font-bold.!mt-8}
 
-<div class="h-[380px] w-[380px] absolute top-3/5 right-4 transform -translate-y-1/2">
+<div class="h-[380px] w-[380px] absolute top-1/2 right-4 transform -translate-y-1/2">
+
+<div class="text-center text-xl">
+こんな感じ
+</div>
 
 <PieChart :data="[
   { label: '睡眠', value: 3, color: '#999999' },
