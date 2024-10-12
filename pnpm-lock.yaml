@@ -17,6 +17,9 @@ importers:
       chart.js:
         specifier: ^4.4.4
         version: 4.4.4
+      chartjs-plugin-datalabels:
+        specifier: ^2.2.0
+        version: 2.2.0(chart.js@4.4.4)
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -1089,6 +1092,11 @@ packages:
   chart.js@4.4.4:
     resolution: {integrity: sha512-emICKGBABnxhMjUjlYRR12PmOXhJ2eJjEHL2/dZlWjxRAZT1D8xplLFq5M0tMQK8ja+wBS/tuVEJB5C6r7VxJA==}
     engines: {pnpm: '>=8'}
+
+  chartjs-plugin-datalabels@2.2.0:
+    resolution: {integrity: sha512-14ZU30lH7n89oq+A4bWaJPnAG8a7ZTk7dKf48YAzMvJjQtjrgg5Dpk9f+LbjCF6bpx3RAGTeL13IXpKQYyRvlw==}
+    peerDependencies:
+      chart.js: '>=3.0.0'
 
   chevrotain-allstar@0.3.1:
     resolution: {integrity: sha512-b7g+y9A0v4mxCW1qUhf3BSVPg+/NvGErk/dOkrDaHA0nQIQGAtrOjlX//9OQtRlSCy+x9rfB5N8yC71lH1nvMw==}
@@ -4263,6 +4271,10 @@ snapshots:
   chart.js@4.4.4:
     dependencies:
       '@kurkle/color': 0.3.2
+
+  chartjs-plugin-datalabels@2.2.0(chart.js@4.4.4):
+    dependencies:
+      chart.js: 4.4.4
 
   chevrotain-allstar@0.3.1(chevrotain@11.0.3):
     dependencies:
