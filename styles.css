@@ -1,6 +1,8 @@
-.slidev-layout {
+.light .slidev-slide-content {
   background: linear-gradient(135deg, #fbfbfb 50%, #ffffff 50%);
+}
 
+.slidev-layout {
   a {
     border-bottom: none !important;
   }
