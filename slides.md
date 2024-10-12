@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: penguin
 favicon: https://koki.me/favicon.ico
 title: 成長するための努力をやめたエンジニアのこれまでとこれから
 drawings:
