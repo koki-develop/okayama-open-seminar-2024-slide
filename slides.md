@@ -49,6 +49,14 @@ Classi 株式会社
 hideInToc: true
 ---
 
+# Classi 株式会社について
+
+TODO: 書く
+
+---
+hideInToc: true
+---
+
 # 話すこと
 
 TODO: 書く
