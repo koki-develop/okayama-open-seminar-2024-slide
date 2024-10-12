@@ -17,6 +17,7 @@
     "chart.js": "^4.4.4",
     "chartjs-plugin-datalabels": "^2.2.0",
     "clsx": "^2.1.1",
+    "slidev-theme-penguin": "^2.3.0",
     "vue": "^3.5.10",
     "vue-chartjs": "^5.3.1"
   },
