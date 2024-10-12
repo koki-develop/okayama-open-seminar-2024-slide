@@ -403,6 +403,13 @@ hideInToc: true
 TODO: 書く
 
 ---
+
+# おまけ
+
+- スライドの作成には [Slidev](https://sli.dev/) を使用しました
+- スライドのソースコードは [`koki-develop/okayama-open-seminar-2024-slide`](https://github.com/koki-develop/okayama-open-seminar-2024-slide) で公開しています
+
+---
 layout: section
 hideInToc: true
 ---
