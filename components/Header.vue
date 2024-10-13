@@ -29,7 +29,7 @@ const parentRoutes = computed(() => {
 
 <template>
   <div
-    class="absolute top-2 left-6 text-base flex gap-1 items-center text-gray-500 dark:text-gray-300"
+    class="fixed top-2 left-6 text-base flex gap-1 items-center text-gray-500 dark:text-gray-300"
   >
     <template v-for="(route, index) in parentRoutes" :key="route.no">
       <span>{{ route.meta.slide.title }}</span>
