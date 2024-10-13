@@ -49,7 +49,7 @@ Classi 株式会社
 hideInToc: true
 ---
 
-# Classi 株式会社について
+# Classi について
 
 TODO: 書く
 
