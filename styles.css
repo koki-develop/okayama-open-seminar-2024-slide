@@ -6,7 +6,7 @@
 
 .slidev-layout {
   &.intro {
-    @apply pl-24;
+    @apply pl-30;
     h1 {
       @apply !text-4xl !leading-snug text-left flex justify-start;
     }
