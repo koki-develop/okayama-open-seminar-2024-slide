@@ -7,6 +7,7 @@ drawings:
 mdc: true
 overviewSnapshots: true
 hideInToc: true
+layout: intro
 ---
 
 # 成長するための努力をやめたエンジニアの<br/>これまでとこれから
@@ -15,7 +16,8 @@ hideInToc: true
 2024.10.19
 
 ---
-layout: intro
+layout: presenter
+presenterImage: /profile.jpg
 hideInToc: true
 ---
 
@@ -42,8 +44,6 @@ Classi 株式会社
 </a>
 </span>
 </div>
-
-<img src="/profile.png" class="w-1/2 absolute top-1/2 left-9/20 transform -translate-y-1/2" />
 
 ---
 hideInToc: true
@@ -86,7 +86,7 @@ hideInToc: true
 <Toc />
 
 ---
-layout: section
+layout: new-section
 ---
 
 # キャリアを振り返る
@@ -110,14 +110,14 @@ hideInToc: true
 ]" />
 
 ---
-layout: center
 level: 2
 hideInToc: true
+class: flex flex-col items-center justify-center
 ---
 
 <Header :page="$page" />
 
-<p class="absolute top-1/5 left-1/2 transform -translate-x-1/2">
+<p class="fixed top-1/5 left-1/2 transform -translate-x-1/2">
 僕のキャリアを 3 つの期間にわけると...
 </p>
 
@@ -128,7 +128,7 @@ hideInToc: true
 </ol>
 
 ---
-layout: section
+layout: new-section
 level: 2
 hideInToc: true
 ---
@@ -165,9 +165,14 @@ level: 3
 - なるべく**睡眠時間を削って勉強してた**
   - 夜 12 時まで勉強
   - 朝 3 時に起きて勉強
+
+<v-click>
+
 - これを **1 年以上続けた**
   - 多少疲れても気にしなかった
   - 若かった (当時 21 歳)
+
+</v-click>
 
 その結果！！ {v-click .!text-4xl.font-bold.!mt-12}
 
@@ -191,13 +196,13 @@ level: 3
 </div>
 
 ---
-layout: statement
 level: 3
+class: flex flex-col items-center justify-center
 ---
 
 <Header :page="$page" />
 
-# 体を壊しました
+# 体を壊しました {.!text-5xl}
 
 ---
 level: 3
@@ -246,7 +251,7 @@ level: 3
 <br/>
 
 ---
-layout: section
+layout: new-section
 level: 2
 hideInToc: true
 ---
@@ -306,12 +311,12 @@ TODO: まとめる
 
 ---
 level: 3
-layout: statement
+class: flex flex-col items-center justify-center
 ---
 
 <Header :page="$page" />
 
-# 心が折れました
+# 心が折れました {.!text-5xl}
 
 ---
 level: 3
@@ -324,7 +329,7 @@ level: 3
 TODO: 書く
 
 ---
-layout: section
+layout: new-section
 level: 2
 hideInToc: true
 ---
@@ -371,7 +376,7 @@ TODO: まとめる
 <small>※ 納税とかはしてる</small>
 
 ---
-layout: section
+layout: new-section
 level: 1
 ---
 
@@ -457,7 +462,7 @@ hideInToc: true
 </v-click>
 
 ---
-layout: section
+layout: new-section
 ---
 
 # 今後のキャリアについて
@@ -472,7 +477,7 @@ hideInToc: true
 - なるようになる
 
 ---
-layout: section
+layout: new-section
 ---
 
 # まとめ
@@ -494,10 +499,11 @@ hideInToc: true
 TODO: 書く
 
 - スライドの作成には [Slidev](https://sli.dev/) を使用しました
-- スライドのソースコードは [`koki-develop/okayama-open-seminar-2024-slide`](https://github.com/koki-develop/okayama-open-seminar-2024-slide) で公開しています
+- スライドのソースコードは GitHub で公開しています
+  - [github.com/koki-develop/okayama-open-seminar-2024-slide](https://github.com/koki-develop/okayama-open-seminar-2024-slide)
 
 ---
-layout: section
+layout: new-section
 hideInToc: true
 ---
 
