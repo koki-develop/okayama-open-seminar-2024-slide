@@ -34,12 +34,12 @@ Classi 株式会社
 
 <div class="flex flex-col gap-2 mt-4">
 <span>
-<a href="https://github.com/koki-develop" target="_blank">
+<a href="https://github.com/koki-develop" target="_blank" rel="noopener">
   <carbon:logo-github /> koki-develop
 </a>
 </span>
 <span>
-<a href="https://x.com/koki_develop" target="_blank">
+<a href="https://x.com/koki_develop" target="_blank" rel="noopener">
   <carbon:logo-x /> koki_develop
 </a>
 </span>
@@ -674,7 +674,7 @@ hideInToc: true
 - この発表資料は GitHub Pages でホスティングしています
   <ul>
     <li>ソースコードは GitHub で公開しています<br/>
-    <carbon:logo-github /> <a href="https://github.com/koki-develop/okayama-open-seminar-2024-slide" target="_blank">koki-develop/okayama-open-seminar-2024-slide</a></li>
+    <carbon:logo-github /> <a href="https://github.com/koki-develop/okayama-open-seminar-2024-slide" target="_blank" rel="noopener">koki-develop/okayama-open-seminar-2024-slide</a></li>
   </ul>
 - スライドの作成には [Slidev](https://sli.dev/) を使用しました
   - 超便利
