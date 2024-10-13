@@ -17,7 +17,7 @@ layout: intro
 
 ---
 layout: presenter
-presenterImage: /profile.jpg
+presenterImage: https://koki.me/images/profile.jpg
 hideInToc: true
 ---
 
