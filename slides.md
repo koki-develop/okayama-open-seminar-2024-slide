@@ -21,9 +21,9 @@ presenterImage: https://koki.me/images/profile.jpg
 hideInToc: true
 ---
 
-# 佐藤光輝
+# 佐藤光輝 {.!mb-0}
 
-Koki Sato
+Koki Sato {.!mt-2}
 
 Classi 株式会社  
 学習 PMF 部ソフトウェアエンジニア
@@ -629,8 +629,10 @@ hideInToc: true
 # おまけ
 
 - この発表資料は GitHub Pages でホスティングしています
-  <li>ソースコードは GitHub で公開しています<br/>
-  <carbon:logo-github /> <a href="https://github.com/koki-develop/okayama-open-seminar-2024-slide" target="_blank">koki-develop/okayama-open-seminar-2024-slide</a></li>
+  <ul>
+    <li>ソースコードは GitHub で公開しています<br/>
+    <carbon:logo-github /> <a href="https://github.com/koki-develop/okayama-open-seminar-2024-slide" target="_blank">koki-develop/okayama-open-seminar-2024-slide</a></li>
+  </ul>
 - スライドの作成には [Slidev](https://sli.dev/) を使用しました
   - 超便利
 
