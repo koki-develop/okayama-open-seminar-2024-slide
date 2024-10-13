@@ -401,10 +401,16 @@ level: 3
 
 思考回路の Before / After {.text-center.!text-lg.font-bold}
 
-| | 以前 | 楽しさ至上主義 |
+| | 以前 | **楽しさ至上主義** |
 | :---: | :---: | :---: |
 | 行動前の思考 | 「これをやる意味はあるだろうか？」<br/>「キャリアの役に立つだろうか？」 | 「**楽しそう！！**」 |
 | 行動後の思考 | 「あまり意味はなかったな...」<br/>「この時間があれば他に勉強できたな... 」 | 「**楽しかった！！**」 |
+
+<style>
+table {
+  @apply mx-auto max-w-16/20;
+}
+</style>
 
 ---
 level: 3
@@ -516,7 +522,7 @@ hideInToc: true
 
 # 「楽しさ至上主義」の前提条件
 
-- 「最初から実践しておけばよかった」とは全く思っていない
+- 「最初から実践しておけばよかった」とは**全く思っていない**
 - **自身の技術力に対する自信** と **経済的安定** の上に成り立っているもの
   - これらを得ることができたのは当時の**努力の結果**
 
@@ -621,11 +627,11 @@ hideInToc: true
 
 # おまけ
 
-TODO: 書く
-
+- この発表資料は GitHub Pages でホスティングしています
+  <li>ソースコードは GitHub で公開しています<br/>
+  <carbon:logo-github /> <a href="https://github.com/koki-develop/okayama-open-seminar-2024-slide" target="_blank">koki-develop/okayama-open-seminar-2024-slide</a></li>
 - スライドの作成には [Slidev](https://sli.dev/) を使用しました
-- スライドのソースコードは GitHub で公開しています
-  - [koki-develop/okayama-open-seminar-2024-slide](https://github.com/koki-develop/okayama-open-seminar-2024-slide)
+  - 超便利
 
 ---
 layout: new-section
