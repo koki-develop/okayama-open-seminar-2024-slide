@@ -400,7 +400,7 @@ level: 3
 - やってみたいと思ったら**即実行**
 - 「やる意味」は**一切考えない**
 
-思考回路の Before / After {.text-center.!text-lg.font-bold.!mb-0}
+思考回路の Before / After {.text-center.!text-xl.font-bold.!mb-0.!mt-4}
 
 | | 以前 | **楽しさ至上主義** |
 | :---: | :---: | :---: |
@@ -409,7 +409,7 @@ level: 3
 
 <style>
 table {
-  @apply mx-auto max-w-16/20;
+  @apply text-xl mx-auto max-w-18/20;
 }
 </style>
 
