@@ -98,7 +98,7 @@ hideInToc: true
 
 <Header :page="$page" />
 
-# 略歴
+# 略歴 {.!mb-4}
 
 <Timeline :items="[
 { date: '2018.03', description: '音楽系の専門学校を卒業' },
@@ -162,7 +162,7 @@ level: 3
 # エンジニアとしての勉強の日々
 
 - とにかく楽しかった
-- なるべく**睡眠時間を削って勉強してた**
+- できるだけ**睡眠時間を削って勉強してた**
   - 夜 12 時まで勉強
   - 朝 3 時に起きて勉強
 
@@ -500,7 +500,7 @@ TODO: 書く
 
 - スライドの作成には [Slidev](https://sli.dev/) を使用しました
 - スライドのソースコードは GitHub で公開しています
-  - [github.com/koki-develop/okayama-open-seminar-2024-slide](https://github.com/koki-develop/okayama-open-seminar-2024-slide)
+  - [koki-develop/okayama-open-seminar-2024-slide](https://github.com/koki-develop/okayama-open-seminar-2024-slide)
 
 ---
 layout: new-section
