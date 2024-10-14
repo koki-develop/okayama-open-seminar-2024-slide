@@ -34,7 +34,7 @@ Koki Sato {.!mt-2}
 Classi 株式会社  
 学習 PMF 部ソフトウェアエンジニア
 
-- 26 歳
+- 26 歳 (1998 年 1 月生まれ)
 - エンジニア 7 年目
 - 1 児の父
 
@@ -131,6 +131,10 @@ hideInToc: true
 
 <Arrow v-click="1" x1="400" y1="160" x2="290" y2="210" />
 
+<p v-click="1" class="!text-3xl font-bold fixed left-[470px] top-[160px]">
+エンジニアとしてのキャリア
+</p>
+
 ---
 level: 2
 hideInToc: true
@@ -186,10 +190,16 @@ level: 3
 
 # エンジニアとしての勉強の日々
 
-- とにかく楽しかった
+- めちゃくちゃ楽しかった
+  - めちゃくちゃ勉強してた
+
+<v-click>
+
 - できるだけ**睡眠時間を削って勉強してた**
-  - 夜 12 時まで勉強
   - 朝 3 時に起きて勉強
+  - 夜 12 時まで勉強
+
+</v-click>
 
 <v-click>
 
@@ -203,11 +213,11 @@ level: 3
 
 <div class="h-[380px] w-[380px] absolute top-1/2 right-4 transform -translate-y-1/2">
 
-<div class="text-center text-xl">
+<div v-click="1" class="text-center text-xl">
 平日の時間割はこんな感じ
 </div>
 
-<PieChart :data="[
+<PieChart v-click="1" :data="[
   { label: '睡眠', value: 3, color: '#999999' },
   { label: '勉強', value: 4, color: '#36A2EB' },
   { label: '朝の準備', value: 0.5, color: '#FFA500' },
