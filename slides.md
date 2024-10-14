@@ -107,11 +107,15 @@ hideInToc: true
 <Timeline :items="[
 { date: '2018.03', description: '音楽系の専門学校を卒業' },
 { date: '2018.04 ~', description: '貴金属の買取業者' },
-{ date: '2018.06 ~', description: 'SES 企業' },
-{ date: '2019.07 ~', description: 'Web 系自社開発企業' },
-{ date: '2022.06 ~', description: 'IT コンサル企業' },
-{ date: '2023.09 ~', description: 'Classi 株式会社' },
+{ date: '2018.06 ~', description: 'SES 企業', highlight: true },
+{ date: '2019.07 ~', description: 'Web 系自社開発企業', highlight: true },
+{ date: '2022.06 ~', description: 'IT コンサル企業', highlight: true },
+{ date: '2023.09 ~', description: 'Classi 株式会社', highlight: true },
 ]" />
+
+<p v-click="1" class="absolute top-1/2 left-7/20 transform -translate-y-1/2 text-center font-bold">
+エンジニアとしてのキャリアはここ
+</p>
 
 ---
 level: 2
