@@ -85,6 +85,16 @@ hideInToc: true
 hideInToc: true
 ---
 
+# 前置き
+
+- この発表内での「エンジニア」という単語は「IT エンジニア」を指します
+- この発表内容はあくまで僕が個人としてどのように考えているかという話であり、所属する組織とは関係ありません
+- 異なる考え方を否定する意図もありません
+
+---
+hideInToc: true
+---
+
 # アジェンダ
 
 <Toc />
@@ -114,7 +124,7 @@ hideInToc: true
 ]" />
 
 <p v-click="1" class="absolute top-1/2 left-7/20 transform -translate-y-1/2 text-center font-bold">
-エンジニアとしてのキャリアはここ
+エンジニアとしてのキャリアはここ！
 </p>
 
 ---
