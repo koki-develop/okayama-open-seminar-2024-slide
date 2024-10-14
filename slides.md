@@ -1,7 +1,8 @@
 ---
 theme: penguin
 favicon: https://koki.me/favicon.ico
-title: 成長するための努力をやめたエンジニアのこれまでとこれから | オープンセミナー2024@岡山
+title: 成長するための努力をやめたエンジニアのこれまでとこれから
+titleTemplate:  '%s - オープンセミナー2024@岡山'
 drawings:
   persist: false
 mdc: true
