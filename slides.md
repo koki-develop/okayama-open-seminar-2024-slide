@@ -85,7 +85,7 @@ hideInToc: true
 
 # 伝えたいこと
 
-のびしろを「引き出さない」という選択肢もある {.font-bold.!text-3xl.text-center.!mt-40}
+- のびしろを「**引き出さない**」という選択肢もある
 
 ---
 hideInToc: true
