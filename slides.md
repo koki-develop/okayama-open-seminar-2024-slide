@@ -123,9 +123,7 @@ hideInToc: true
 { date: '2023.09 ~', description: 'Classi 株式会社', highlight: true },
 ]" />
 
-<p v-click="1" class="absolute top-1/2 left-7/20 transform -translate-y-1/2 text-center font-bold">
-エンジニアとしてのキャリアはここ！
-</p>
+<Arrow v-click="1" x1="400" y1="160" x2="290" y2="210" />
 
 ---
 level: 2
