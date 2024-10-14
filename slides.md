@@ -141,7 +141,10 @@ class: flex flex-col items-center justify-center
 <ol class="flex flex-col gap-4">
   <li v-click class="!text-4xl font-bold">体を壊すまで</li>
   <li v-click class="!text-4xl font-bold">心が折れるまで</li>
-  <li v-click class="!text-4xl font-bold">エンジョイ期</li>
+  <li v-click class="!text-4xl font-bold relative">
+    エンジョイ期
+    <span class="mt-1 ml-4 !text-2xl font-normal absolute whitespace-nowrap">←イマココ</span>
+  </li>
 </ol>
 
 ---
