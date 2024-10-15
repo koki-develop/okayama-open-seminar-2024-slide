@@ -55,9 +55,18 @@ Classi 株式会社
 hideInToc: true
 ---
 
-# Classi について
 
-TODO: 書く
+<div class="flex justify-between items-center">
+<img src="/classi.svg" class="h-18" alt="Classi">
+<p class="font-bold !my-0">
+Classiはさまざまな機能で、生徒の可能性をひきだし、<br/>理想の指導の実現をサポートします
+</p>
+</div>
+
+Classiとは、コミュニケーション、探究学習、学習動画、日々の学習記録などを通じて、「先生方の授業・生徒指導」「生徒の学び・成長」をサポートするオールインワンのプラットフォームです。  
+さらに、各分野のパートナーが提供する教育コンテンツとも多数連携し、学校の状況に応じて幅広いラインナップからお選びいただける連携サービスも用意しています。
+
+![](/classi_cycle.png) {.h-54.fixed.bottom-4.left-1/2.-translate-x-1/2}
 
 <Skip />
 
