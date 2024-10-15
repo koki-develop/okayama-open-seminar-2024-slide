@@ -55,7 +55,6 @@ Classi 株式会社
 hideInToc: true
 ---
 
-
 <div class="flex justify-between items-center">
 <img src="/classi.svg" class="h-18" alt="Classi">
 <p class="font-bold !my-0">
