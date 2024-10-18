@@ -217,7 +217,7 @@ level: 3
 
 </v-click>
 
-その結果！！ {v-click .!text-4xl.font-bold.!mt-12}
+その結果！！ {v-click .!text-4xl.font-bold}
 
 <div class="h-[380px] w-[380px] absolute top-1/2 right-4 transform -translate-y-1/2">
 
@@ -351,7 +351,7 @@ level: 3
 
 </v-click>
 
-その結果！！ {v-click .!text-4xl.font-bold.!mt-12}
+その結果！！ {v-click .!text-4xl.font-bold}
 
 ---
 level: 3
