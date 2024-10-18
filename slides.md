@@ -7,7 +7,7 @@ mdc: true
 overviewSnapshots: true
 colorSchema: light
 
-presenter: true
+presenter: false
 record: false
 drawings:
   enabled: false
