@@ -37,6 +37,7 @@ Classi 株式会社
 - 26 歳 (1998 年 1 月生まれ)
 - エンジニア 7 年目
 - 1 児の父
+- 人生初の岡山！！
 
 <div class="flex flex-col gap-2 mt-4">
 <span>
