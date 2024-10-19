@@ -49,6 +49,11 @@ Classi 株式会社
   <carbon:logo-x /> koki_develop
 </a>
 </span>
+<span>
+<a class="flex-inline gap-3 items-center" href="https://zenn.dev/kou_pg_0131" target="_blank" rel="noopener">
+  <img class="w-[1em] h-[1em] inline" src="/zenn.svg" /> kou_pg_0131
+</a>
+</span>
 </div>
 
 ---
