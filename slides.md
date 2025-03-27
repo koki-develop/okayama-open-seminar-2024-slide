@@ -23,7 +23,7 @@ hideInToc: true
 
 ---
 layout: presenter
-presenterImage: https://koki.me/images/profile.jpg
+presenterImage: https://koki.me/profile.jpg
 hideInToc: true
 ---
 
